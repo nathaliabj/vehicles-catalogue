@@ -12,7 +12,12 @@ Install all its dependencies running `yarn`
 
 run `yarn start` to start the app! 
 
-## Available pages
+### Available pages
 
 *Home:* `http://localhost:3000/`
 *Vehicle:* `http://localhost:3000/vehicle`
+
+### Used stack
+- React
+- Typescript
+- Styled Components
