@@ -11,3 +11,8 @@ Start by cloning this project.
 Install all its dependencies running `yarn`
 
 run `yarn start` to start the app! 
+
+## Available pages
+
+*Home:* `http://localhost:3000/`
+*Vehicle:* `http://localhost:3000/vehicle`
